@@ -1,3 +1,3 @@
-const genDiff = (filepath1, filepath2) => null;
+const genDiff = () => null;
 
 export default genDiff;

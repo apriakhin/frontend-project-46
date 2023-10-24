@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-import cli from '../src/cli.js';
+import setup from '../src/cli.js';
 
-cli();
+setup();
